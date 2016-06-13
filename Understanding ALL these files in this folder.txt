@@ -1,0 +1,5 @@
+- display_results and index have swapped names. original index is now display results and vice versa.
+
+- display_resultsORIGINAL is the assignment before more robust validation or regular expressions.
+
+- Same thing with indexORIGINAL.
